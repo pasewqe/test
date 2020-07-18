@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_tabmain.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\tabmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab3_fragment.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\tab3_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s8.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s8.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tool11.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\tool11.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s57.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s57.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_social.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\social.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_emotion.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\emotion.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s7.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s7.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tool12.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\tool12.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\intro2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c3.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_raccoon.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\raccoon.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_accessment.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\accessment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_co2.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\co2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_physical1.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\physical1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_p1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s59.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s59.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_metrics_panel.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\metrics_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab2_fragment.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\tab2_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hippo.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\hippo.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\type.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\intro.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_panda.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\panda.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s56.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s56.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_p2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s51.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s51.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\type2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s5.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s5.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c8.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c8.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_life.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\life.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_social4.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\social4.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\camera_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c5.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c5.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monkey.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\monkey.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab1_fragment.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\tab1_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_social3.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\social3.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tool22.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\tool22.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c6.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c6.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s54.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s54.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\cat.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_socials.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\socials.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tool1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\tool1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s4.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_video.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phy.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\phy.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_emorlt.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\emorlt.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_materials.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\materials.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s3.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c7.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c7.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flower.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s53.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s53.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_item2.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\grid_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_social2.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\social2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_social2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\social2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_tool.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\tool.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main.jpg.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\main.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_scenario.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\scenario.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\type1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_social5.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\social5.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_co1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\co1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s6.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s6.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s52.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s52.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rabbit.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\rabbit.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c4.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c4.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s9.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s9.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_share.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_cognitive.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\cognitive.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_physical2.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\physical2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_c1.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s58.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s58.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_senario1.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\senario1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s55.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s55.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tool2.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\tool2.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mushroom.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\mushroom.png"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\layout_comm.xml.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\layout\\comm.xml"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_s1bg.jpg.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\s1bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_psy.png.flat",
+        "source": "C:\\Users\\lab410\\Desktop\\newElder2\\app\\src\\main\\res\\drawable\\psy.png"
+    }
+]

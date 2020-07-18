@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gin.elder2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.gin.elder2.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.video"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.materials"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.scenario"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.scenario1"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.tabmain"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.CameraActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.Takepic"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.cameraMain"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.emotionresult"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.share"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.social"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.social2"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.social3"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.social4"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.social5"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.co1"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.co2"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.physical1"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.physical2"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.comm"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.tool"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.example.gin.elder2.toolchoose"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/s1bg"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.gin.elder2.social"
+    tools:layout_editor_absoluteY="25dp">
+
+    <ImageView
+        android:id="@+id/imageView50"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="3dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/imageView51"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/intro" />
+
+    <ImageView
+        android:id="@+id/imageView51"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="1dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView50"
+        app:srcCompat="@drawable/intro2" />
+
+</android.support.constraint.ConstraintLayout>
